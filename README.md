@@ -2,9 +2,11 @@ OpenGL Platforming Game
 =======================
 
 Setup:
-Run the compiled executable to start the game.
+
+Run the compiled executable "graphics_asgn1" to start the game.
 
 Controls:
+
 Movement to the left or right is through the use of the A and D keys.
 Jumping is done with the help of the space bar.
 Press Q in order to quit the game.
@@ -12,6 +14,7 @@ Use the arrow keys to pan the camera.
 Z to zoom in and X to zoom out.
 
 Game:
+
 The player must jump on the floating balls in the air for which he/she is scored.
 
 The score is displayed in the title bar of the screen.
